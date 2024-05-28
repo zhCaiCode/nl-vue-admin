@@ -1,0 +1,347 @@
+// cover some element-ui styles
+@import './mixin.scss';
+.el-breadcrumb__inner,
+.el-breadcrumb__inner a {
+  font-weight: 400 !important;
+}
+
+.el-upload {
+  input[type="file"] {
+    display: none !important;
+  }
+}
+
+.el-upload__input {
+  display: none;
+}
+
+.cell {
+  .el-tag {
+    margin-right: 0px;
+  }
+}
+
+.el-table {
+  // overflow: hidden;
+  position: relative;
+  // height: 100%;
+  .el-table__placeholder + div {
+    display: inline-block !important;
+  }
+
+  .el-table--border {
+    ::v-deep .el-table__header {
+      th {
+        border-right: 1px solid #e4e4e4;
+      }
+    }
+
+    ::v-deep .el-table__row {
+      th,
+      td {
+        border-right: 0;
+      }
+    }
+  }
+
+  &.el-table--border {
+    border: 0;
+
+    &::after {
+      background-color: inherit;
+    }
+  }
+
+  .el-table__cell {
+    height: $table_cell_height !important;
+
+    & > .cell {
+      vertical-align: middle;
+    }
+  }
+
+  td.el-table__cell {
+    border-right: 0;
+  }
+
+  th.el-table__cell {
+    border-right-width: 0;
+
+    &:hover {
+      border-right-width: 1px;
+    }
+  }
+
+  th.el-table__cell {
+    //表头添加背景色
+    /*background-color: #f5f7fa;*/
+  }
+  .el-table::before {
+    //消除表格横线
+    height: 0;
+  }
+
+  .pagination-container {
+    padding: 0 1rem;
+  }
+
+  .el-pagination {
+    padding-bottom: 0;
+    padding-top: 0;
+  }
+
+  .controllerLayout {
+    /*float: right;*/
+  }
+
+  pre, .info-p {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+
+  .el-button--text {
+    &.el-button--medium,&.el-button--mini{
+      min-width: inherit;
+    }
+  }
+}
+
+.small-padding {
+  .cell {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+.fixed-width {
+  .el-button--mini {
+    padding: 7px 10px;
+    width: 60px;
+  }
+}
+
+.el-button--medium:not(.is-circle) {
+  min-width: 96px
+}
+.el-message-box__btns{
+  .el-button[type='default'],.el-button--small,.el-button--medium,.el-button--default{
+    min-width: 80px;
+  }
+}
+.status-col {
+  .cell {
+    padding: 0 10px;
+    text-align: center;
+
+    .el-tag {
+      margin-right: 0px;
+    }
+  }
+}
+.el-select.select-models{
+  .el-select__tags{
+    max-width: 300px!important;
+    max-height: 200px!important;
+    overflow: auto;
+  }
+  .el-select__tags-text {
+    display: inline-block;
+    max-width: 120px; // 根据实际情况调整
+    overflow: hidden; // 溢出隐藏f
+    text-overflow: ellipsis; // 超出文本以省略号显示
+    white-space: nowrap; // 文本不换行
+  }
+
+  .el-tag__close.el-icon-close {
+    top: -6px; // 清除下标的位置调整
+  }
+}
+.el-dialog {
+  max-width: 100vw;
+  max-height: 100vh;
+  min-width:40vw;
+  min-height: 60vh;
+  overflow: auto;
+  .el-dialog__footer{
+    .el-button:not(:last-child){
+      margin-right: 16px;
+    }
+  }
+}
+
+.el-form-item {
+  .el-form-item__label{
+    line-height: 40px!important;
+  }
+  line-height: 40px!important;
+  .el-form-item__content {
+    .el-input__inner,.el-button {
+      height: 40px;
+      min-width: 96px;
+    }
+  }
+}
+.el-button--small{
+  padding: 9px 15px;
+}
+.el-form-item--small {
+  .el-form-item__label{
+    line-height: 35px!important;
+  }
+  .el-form-item__content {
+    line-height: 35px!important;
+    .el-input__inner,.el-button {
+      height: 35px;
+      min-width: 80px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    &:has(.el-button){
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}
+
+
+// to fixed https://github.com/ElemeFE/element/issues/2461
+.el-dialog {
+  transform: none;
+  left: 0;
+  position: relative;
+  margin: 0 auto;
+  .el-dialog__header{
+    background-color: #f2f2f2;
+    padding: 20px;
+    i{
+      font-size: 24px;
+    }
+  }
+}
+
+// refine element ui upload
+.upload-container {
+  .el-upload {
+    width: 100%;
+
+    .el-upload-dragger {
+      width: 100%;
+      height: 200px;
+    }
+  }
+}
+
+// dropdown
+.el-dropdown-menu {
+  a {
+    display: block;
+  }
+}
+
+// fix date-picker ui bug in filter-item
+.el-range-editor.el-input__inner {
+  display: inline-flex !important;
+}
+
+.edit-form-enter, .edit-form-leave-to {
+  scale: 0;
+  height: 0;
+}
+
+.edit-form-enter-active {
+  transition: all .3s ease;
+}
+
+.edit-form-leave-active {
+  transition: all .2s ease-in;
+}
+
+.edit-form-enter-to, .edit-form-leave {
+  scale: 1;
+  height: 142px;
+}
+
+.fade-enter, .fade-leave-to {
+  opacity: 0;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s;
+}
+
+.slide-fade-enter-active, .slide-fade-leave-active {
+  & .card-box {
+    transition: opacity .5s ease, transform .5s ease;
+  }
+}
+
+.slide-fade-leave-to, .slide-fade-enter {
+  & .card-box {
+    opacity: 0;
+    transform: translateX(15%);
+  }
+
+}
+.btn-login{
+  &,&:hover {
+    background: $bg-color-primary!important;
+  }
+}
+// to fix el-date-picker css style
+.el-range-separator {
+  box-sizing: content-box;
+}
+
+.el-menu--collapse
+> div
+> .el-submenu
+> .el-submenu__title
+.el-submenu__icon-arrow {
+  display: none;
+}
+.el-table{
+  font-size: 14px!important;
+  th{
+    background-color: #f5f8fa!important;
+    .cell{
+      font-size: 14px!important;
+      color: #494949;
+      font-family: Poppins-Regular;
+    }
+  }
+}
+.el-tooltip__popper{
+  max-width: 1140px;
+  font-size: 12px!important;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+.el-button--primary{
+  background: $--color-primary;
+  border-color: $--color-primary;
+  &:hover,&:focus{
+    background: $--color-primary;
+    border-color:$--color-primary;
+    opacity: 0.92;
+  }
+
+  //transition: all .3s ease;
+}
+.el-input .el-input__inner {
+  @include inputFont(18px);
+}
+.el-input--medium .el-input__inner {
+    @include inputFont(16px);
+}
+.el-input--small .el-input__inner {
+  @include inputFont(14px);
+}
+.el-input--mini .el-input__inner {
+  @include inputFont(12px);
+}
+.navbar .right-menu .right-menu-item .el-link.el-link--default:hover{
+  color: #e85754!important;
+}
