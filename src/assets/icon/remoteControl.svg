@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon_normal远程操作</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#8D13BB" offset="0%"></stop>
+            <stop stop-color="#5022AE" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="64" height="64" rx="14"></rect>
+        <filter x="-3.9%" y="-3.9%" width="110.9%" height="110.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296601836 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M46.6260163,13 C50.1462703,13 53,15.7857838 53,19.2222222 L53,28.0623306 C53,29.1938408 52.0827297,30.1111111 50.9512195,30.1111111 C49.8197093,30.1111111 48.902439,29.1938408 48.902439,28.0623306 L48.902439,20.2222222 C48.902439,18.1603592 47.9416175,17.1316679 45.863558,17 L18.398374,17 C16.2862216,17 15.2324403,17.9379448 15.097561,19.9665267 L15.097561,36.7777778 C15.097561,38.8396408 16.0583825,39.8683321 18.136442,40 L34,40 C35.1045695,40 36,40.8954305 36,42 C36,43.1045695 35.1045695,44 34,44 L34,47 L42,47 C43.1045695,47 44,47.8954305 44,49 C44,50.1045695 43.1045695,51 42,51 L22,51 C20.8954305,51 20,50.1045695 20,49 C20,47.8954305 20.8954305,47 22,47 L30,47 L30,44 L17.3739837,44 C13.8537297,44 11,41.2142162 11,37.7777778 L11,19.2222222 C11,15.7857838 13.8537297,13 17.3739837,13 L46.6260163,13 Z M48,32 C49.1045695,32 50,32.8954305 50,34 C50,35.0543618 49.1841222,35.9181651 48.1492623,35.9945143 L48,36 L44.828,36 L52.363961,43.5355339 C53.1039018,44.2754747 53.142846,45.4509588 52.4807938,46.2367463 L52.363961,46.363961 C51.6240203,47.1039018 50.4485361,47.142846 49.6627487,46.4807938 L49.5355339,46.363961 L42,38.828 L42,42 C42,43.0543618 41.1841222,43.9181651 40.1492623,43.9945143 L40,44 C38.9456382,44 38.0818349,43.1841222 38.0054857,42.1492623 L38,42 L38,34 C38,32.9456382 38.8158778,32.0818349 39.8507377,32.0054857 L40,32 L48,32 Z" id="path-4"></path>
+        <filter x="-9.5%" y="-5.3%" width="119.0%" height="121.1%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_normal远程操作" transform="translate(1.000000, 1.000000)">
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="形状结合">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>

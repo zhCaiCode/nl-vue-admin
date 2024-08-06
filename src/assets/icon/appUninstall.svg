@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon_normal应用卸载</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E15473" offset="0%"></stop>
+            <stop stop-color="#CB312F" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="48" height="48" rx="10"></rect>
+        <filter x="-5.2%" y="-5.2%" width="114.6%" height="114.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296601836 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M17.5,15 C18.3284271,15 19,15.6715729 19,16.5 C19,17.3284271 18.3284271,18 17.5,18 L16.1108144,18 C15.0064088,18 14.1111111,18.8952977 14.1111111,19.9997033 L14.111,26.9996925 L33.888,26.9996925 L33.8888889,19.9997033 C33.8888889,18.8952977 32.9935912,18 31.8891856,18 L30.5,18 C29.6715729,18 29,17.3284271 29,16.5 C29,15.6715729 29.6715729,15 30.5,15 L33.0005933,15 C35.2094046,15 37,16.7905954 37,18.9994067 L36.9999599,28.4889189 C36.9999866,28.4926095 37,28.4963032 37,28.5 L36.999,28.5106925 L37,37.0005933 C37,39.2094046 35.2094046,41 33.0005933,41 L14.9994067,41 C12.7905954,41 11,39.2094046 11,37.0005933 L11,18.9994067 C11,16.7905954 12.7905954,15 14.9994067,15 L17.5,15 Z M33.888,29.9996925 L14.111,29.9996925 L14.1111111,36.0002967 C14.1111111,37.1047023 15.0064088,38 16.1108144,38 L31.8891856,38 C32.9935912,38 33.8888889,37.1047023 33.8888889,36.0002967 L33.888,29.9996925 Z M24.5,32 C25.3284271,32 26,32.6715729 26,33.5 C26,34.3284271 25.3284271,35 24.5,35 C23.6715729,35 23,34.3284271 23,33.5 C23,32.6715729 23.6715729,32 24.5,32 Z M24.0511429,7.00369254 C24.4600158,7.00369254 24.8270889,7.18265879 25.0783008,7.46652988 L29.0878764,11.7031127 C29.6166005,12.2615818 29.6496458,13.1161795 29.1870122,13.7116646 L29.0878764,13.8271423 L29.0343245,13.8806941 C28.5137356,14.3735557 27.7109827,14.3832869 27.179493,13.9250292 L27.0769759,13.8271423 L25.4228557,12.0796925 L25.4222814,23.6325541 C25.4222814,24.3898129 24.8084018,25.0036925 24.0511429,25.0036925 C23.2938841,25.0036925 22.6800045,24.3898129 22.6800045,23.6325541 L22.6808557,11.9806925 L20.9230241,13.8358415 C20.3973051,14.3911363 19.5209703,14.4151123 18.9656755,13.8893933 C18.9473399,13.8720343 18.9294826,13.854177 18.9121236,13.8358415 C18.3481512,13.2401411 18.3481512,12.3075123 18.9121236,11.7118119 L22.9339246,7.46375278 C23.1367943,7.24946997 23.3918747,7.1143065 23.6605702,7.05931831 C23.7840358,7.02345246 23.9152818,7.00369254 24.0511429,7.00369254 Z" id="path-4"></path>
+        <filter x="-15.4%" y="-5.9%" width="130.8%" height="123.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_normal应用卸载" transform="translate(1.000000, 1.000000)">
+            <g id="编组-9备份-4">
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+            </g>
+            <g id="形状结合">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>

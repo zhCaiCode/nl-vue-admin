@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.75" height="29.531" viewBox="0 0 24.75 29.531">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 0.3px;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1470.72" y="828.844" width="24.75" height="29.531" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#737373"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-1470.72 -828.844)" style="fill: ; filter: url(#filter)">
+    <path id="系统日志" class="cls-1" d="M1491.25,829h-16.31a4.08,4.08,0,0,0-4.08,4.077h0v21.065a4.081,4.081,0,0,0,4.08,4.077h11.89a0.687,0.687,0,0,0,.48-0.2l7.81-7.814a0.666,0.666,0,0,0,.2-0.479V833.077a4.072,4.072,0,0,0-4.07-4.077h0Zm-19.03,25.142V833.077a2.72,2.72,0,0,1,2.72-2.718h16.31a2.72,2.72,0,0,1,2.72,2.718v15.629h-4.42a4.08,4.08,0,0,0-4.08,4.077h0v4.077h-10.53A2.72,2.72,0,0,1,1472.22,854.142Zm14.61,2.436v-3.795a2.72,2.72,0,0,1,2.72-2.718h3.79Zm-9.85-19.424h12.23a0.68,0.68,0,1,0,0-1.359h-12.23A0.68,0.68,0,1,0,1476.98,837.154Zm0,6.116h12.23a0.68,0.68,0,1,0,0-1.359h-12.23A0.68,0.68,0,1,0,1476.98,843.27Zm5.43,4.756h-5.43a0.68,0.68,0,1,0,0,1.359h5.43A0.68,0.68,0,1,0,1482.41,848.026Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-1470.72 -828.844)" xlink:href="#系统日志" style="stroke: #000; filter: none; fill: none"/>
+</svg>

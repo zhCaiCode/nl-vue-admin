@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon_hover应用安装</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.05078125%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#64D0FF" offset="0%"></stop>
+            <stop stop-color="#6A67F2" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="52" height="52" rx="12"></rect>
+        <filter x="-4.8%" y="-4.8%" width="113.5%" height="113.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296601836 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M32.1909323,10.8333333 C33.5674623,10.8333333 34.8357387,11.5797918 35.5039584,12.7832523 L41.8211287,24.1604473 C42.4563896,25.3045492 42.4563896,26.6954508 41.8211287,27.8395527 L35.5039584,39.2167477 C34.8357387,40.4202082 33.5674623,41.1666667 32.1909323,41.1666667 L19.8090677,41.1666667 C18.4325377,41.1666667 17.1642613,40.4202082 16.4960416,39.2167477 L10.1788713,27.8395527 C9.54361039,26.6954508 9.54361039,25.3045492 10.1788713,24.1604473 L16.4960416,12.7832523 C17.1642613,11.5797918 18.4325377,10.8333333 19.8090677,10.8333333 L32.1909323,10.8333333 Z M31.3840034,14.625 L20.6210708,14.625 C19.9537922,14.625 19.333415,14.9539778 18.9582045,15.4973124 L18.8696243,15.6375455 L13.4834968,24.9914939 C13.1539795,25.5637581 13.1265197,26.2571463 13.4011175,26.8495978 L13.4834968,27.0085061 L18.8696243,36.3624545 C19.2025967,36.9407192 19.7972581,37.314179 20.455343,37.3682126 L20.6210708,37.375 L31.3840034,37.375 C32.051282,37.375 32.6716593,37.0460222 33.0468697,36.5026876 L33.1354499,36.3624545 L38.5215774,27.0085061 C38.8510947,26.4362419 38.8785545,25.7428537 38.6039567,25.1504022 L38.5215774,24.9914939 L33.1354499,15.6375455 C32.7747298,15.011092 32.1068886,14.625 31.3840034,14.625 Z M26,18.4166667 C30.1706861,18.4166667 33.5516953,22.0543531 33.5516953,26.5416667 C33.5516953,31.0289803 30.1706861,34.6666667 26,34.6666667 C21.8293139,34.6666667 18.4483047,31.0289803 18.4483047,26.5416667 C18.4483047,22.0543531 21.8293139,18.4166667 26,18.4166667 Z M26.0952353,22.4791667 C24.0098923,22.4791667 22.3193877,24.2980099 22.3193877,26.5416667 C22.3193877,28.7853235 24.0098923,30.6041667 26.0952353,30.6041667 C28.1805784,30.6041667 29.871083,28.7853235 29.871083,26.5416667 C29.871083,24.2980099 28.1805784,22.4791667 26.0952353,22.4791667 Z" id="path-4"></path>
+        <filter x="-12.4%" y="-6.6%" width="124.9%" height="126.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_hover应用安装" transform="translate(1.000000, 1.000000)">
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <rect stroke="#FFFFFF" stroke-width="2" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd" x="1" y="1" width="50" height="50" rx="12"></rect>
+            </g>
+            <g id="形状结合">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>

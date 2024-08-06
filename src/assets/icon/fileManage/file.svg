@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="4px" viewBox="0 0 6 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>normal_-down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="banner" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="操作页面备份" transform="translate(-397.000000, -300.000000)" fill-rule="nonzero">
+            <g id="normal_-down" transform="translate(396.000000, 298.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="8" height="8"></rect>
+                <path d="M6.565625,2.34375 L1.434375,2.34375 C1.28046875,2.34375 1.19453125,2.50625 1.28984375,2.6171875 L3.85546875,5.5921875 C3.92890625,5.67734375 4.0703125,5.67734375 4.14453125,5.5921875 L6.71015625,2.6171875 C6.80546875,2.50625 6.71953125,2.34375 6.565625,2.34375 Z" id="路径" fill="#BEBEBE"></path>
+            </g>
+        </g>
+    </g>
+</svg>

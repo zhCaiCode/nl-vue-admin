@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon_normalAPN设置</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0.358952703%" x2="50%" y2="97.5857664%" id="linearGradient-1">
+            <stop stop-color="#A86AE5" offset="0%"></stop>
+            <stop stop-color="#5A49E0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="48" height="48" rx="10"></rect>
+        <filter x="-5.2%" y="-5.2%" width="114.6%" height="114.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296601836 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M31,10 C34.8659932,10 38,12.7857838 38,16.2222222 L38,31.7777778 C38,35.2142162 34.8659932,38 31,38 L17,38 C13.1340068,38 10,35.2142162 10,31.7777778 L10,16.2222222 C10,12.7857838 13.1340068,10 17,10 L31,10 Z M35,31 L13,31 L13,31.3333333 C13,33.2773757 14.7456762,34.8680567 16.952595,34.9922007 L17.2307692,35 L30.7692308,35 C33.0123565,35 34.8477578,33.4870806 34.9910008,31.5744177 L35,31.3333333 L35,31 Z M30.7692308,13 L17.2307692,13 C14.9876435,13 13.1522422,14.5129194 13.0089992,16.4255823 L13,16.6666667 L13,28 L35,28 L35,16.6666667 C35,14.7226243 33.2543238,13.1319433 31.047405,13.0077993 L30.7692308,13 Z M18.344,16.541 L20.709,25 L19.004,25 L18.399,22.767 L16.133,22.767 L15.55,25 L13.9,25 L16.298,16.541 L18.344,16.541 Z M23.593,16.475 C24.66,16.475 25.463,16.684 26.002,17.146 C26.508,17.575 26.816,18.257 26.816,19.038 C26.816,21.359 24.88,21.876 23.615,21.876 C23.384,21.876 23.186,21.865 23.021,21.832 L23.021,25 L21.404,25 L21.404,16.651 C21.932,16.552 22.658,16.475 23.593,16.475 Z M29.26,16.541 L31.042,19.973 C31.493,20.82 31.966,21.854 32.307,22.734 L32.329,22.734 C32.23,21.656 32.186,20.457 32.186,19.082 L32.186,16.541 L33.66,16.541 L33.66,25 L32.032,25 L30.217,21.502 C29.766,20.633 29.271,19.588 28.919,18.664 L28.875,18.664 C28.9344,19.6045 28.96707,20.66083 28.97301,21.961294 L28.974,25 L27.5,25 L27.5,16.541 L29.26,16.541 Z M16.872,17.883 L16.839,17.883 C16.729,18.411 16.586,19.104 16.465,19.599 L15.959,21.535 L17.763,21.535 L17.257,19.61 C17.125,19.082 16.982,18.4 16.872,17.883 Z M23.725,17.74 C23.395,17.74 23.164,17.773 23.021,17.806 L23.021,20.556 C23.175,20.589 23.351,20.6 23.593,20.6 C24.605,20.6 25.199,20.028 25.199,19.115 C25.199,18.213 24.627,17.74 23.725,17.74 Z" id="path-4"></path>
+        <filter x="-14.3%" y="-7.1%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_normalAPN设置" transform="translate(1.000000, 1.000000)">
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="形状结合" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FFFFFF" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>

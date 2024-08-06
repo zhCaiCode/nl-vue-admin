@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon_normal查看部署记录</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00D0BA" offset="0%"></stop>
+            <stop stop-color="#005ECF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="48" height="48" rx="10"></rect>
+        <filter x="-5.2%" y="-5.2%" width="114.6%" height="114.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296601836 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M34,23 C36.209139,23 38,24.790861 38,27 L38,34 C38,36.209139 36.209139,38 34,38 L14,38 C11.790861,38 10,36.209139 10,34 L10,27 C10,24.790861 11.790861,23 14,23 L34,23 Z M34,26 L14,26 C13.4477153,26 13,26.4477153 13,27 L13,34 C13,34.5522847 13.4477153,35 14,35 L34,35 C34.5522847,35 35,34.5522847 35,34 L35,27 C35,26.4477153 34.5522847,26 34,26 Z M16.5,27 C17.3284271,27 18,27.6715729 18,28.5 L18,32.5 C18,33.3284271 17.3284271,34 16.5,34 C15.6715729,34 15,33.3284271 15,32.5 L15,28.5 C15,27.6715729 15.6715729,27 16.5,27 Z M21.5,27 C22.3284271,27 23,27.6715729 23,28.5 L23,32.5 C23,33.3284271 22.3284271,34 21.5,34 C20.6715729,34 20,33.3284271 20,32.5 L20,28.5 C20,27.6715729 20.6715729,27 21.5,27 Z M26.5,27 C27.3284271,27 28,27.6715729 28,28.5 L28,32.5 C28,33.3284271 27.3284271,34 26.5,34 C25.6715729,34 25,33.3284271 25,32.5 L25,28.5 C25,27.6715729 25.6715729,27 26.5,27 Z M31.5,27 C32.3284271,27 33,27.6715729 33,28.5 L33,32.5 C33,33.3284271 32.3284271,34 31.5,34 C30.6715729,34 30,33.3284271 30,32.5 L30,28.5 C30,27.6715729 30.6715729,27 31.5,27 Z M34,10 C36.209139,10 38,11.790861 38,14 L38,17 C38,19.209139 36.209139,21 34,21 L14,21 C11.790861,21 10,19.209139 10,17 L10,14 C10,11.790861 11.790861,10 14,10 L34,10 Z M34,13 L14,13 C13.4477153,13 13,13.4477153 13,14 L13,17 C13,17.5522847 13.4477153,18 14,18 L34,18 C34.5522847,18 35,17.5522847 35,17 L35,14 C35,13.4477153 34.5522847,13 34,13 Z M31.5,14 C32.3284271,14 33,14.6715729 33,15.5 C33,16.3284271 32.3284271,17 31.5,17 L28.5,17 C27.6715729,17 27,16.3284271 27,15.5 C27,14.6715729 27.6715729,14 28.5,14 L31.5,14 Z" id="path-4"></path>
+        <filter x="-14.3%" y="-7.1%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="2023年2月15日" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_normal查看部署记录" transform="translate(1.000000, 1.000000)">
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="形状结合" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FFFFFF" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>

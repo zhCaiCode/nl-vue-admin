@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon_normal应用安装_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.05078125%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#23AFEC" offset="0%"></stop>
+            <stop stop-color="#5A57E1" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="48" height="48" rx="10"></rect>
+        <filter x="-5.2%" y="-5.2%" width="114.6%" height="114.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296601836 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M19,25 C21.209139,25 23,26.790861 23,29 L23,34 C23,36.209139 21.209139,38 19,38 L14,38 C11.790861,38 10,36.209139 10,34 L10,29 C10,26.790861 11.790861,25 14,25 L19,25 Z M34,25 C36.209139,25 38,26.790861 38,29 L38,34 C38,36.209139 36.209139,38 34,38 L29,38 C26.790861,38 25,36.209139 25,34 L25,29 C25,26.790861 26.790861,25 29,25 L34,25 Z M19,28 L14,28 C13.4477153,28 13,28.4477153 13,29 L13,34 C13,34.5522847 13.4477153,35 14,35 L19,35 C19.5522847,35 20,34.5522847 20,34 L20,29 C20,28.4477153 19.5522847,28 19,28 Z M34,28 L29,28 C28.4477153,28 28,28.4477153 28,29 L28,34 C28,34.5522847 28.4477153,35 29,35 L34,35 C34.5522847,35 35,34.5522847 35,34 L35,29 C35,28.4477153 34.5522847,28 34,28 Z M19,10 C21.209139,10 23,11.790861 23,14 L23,19 C23,21.209139 21.209139,23 19,23 L14,23 C11.790861,23 10,21.209139 10,19 L10,14 C10,11.790861 11.790861,10 14,10 L19,10 Z M33.8932845,11.1151099 L36.8848901,14.1067155 C38.2066646,15.42849 38.2066646,17.57151 36.8848901,18.8932845 L33.8932845,21.8848901 C32.57151,23.2066646 30.42849,23.2066646 29.1067155,21.8848901 L26.1151099,18.8932845 C24.7933354,17.57151 24.7933354,15.42849 26.1151099,14.1067155 L29.1067155,11.1151099 C30.42849,9.79333537 32.57151,9.79333537 33.8932845,11.1151099 Z M31.0512592,13.0596535 L28.0596535,16.0512592 C27.8118208,16.2990919 27.8118208,16.7009081 28.0596535,16.9487408 L31.0512592,19.9403465 C31.2990919,20.1881792 31.7009081,20.1881792 31.9487408,19.9403465 L34.9403465,16.9487408 C35.1881792,16.7009081 35.1881792,16.2990919 34.9403465,16.0512592 L31.9487408,13.0596535 C31.7009081,12.8118208 31.2990919,12.8118208 31.0512592,13.0596535 Z M19,13 L14,13 C13.4477153,13 13,13.4477153 13,14 L13,19 C13,19.5522847 13.4477153,20 14,20 L19,20 C19.5522847,20 20,19.5522847 20,19 L20,14 C20,13.4477153 19.5522847,13 19,13 Z" id="path-4"></path>
+        <filter x="-14.3%" y="-7.1%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_normal应用安装_1" transform="translate(1.000000, 1.000000)">
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="形状结合" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FFFFFF" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>

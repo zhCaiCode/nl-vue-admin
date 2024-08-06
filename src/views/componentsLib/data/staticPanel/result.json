@@ -1,0 +1,17 @@
+[
+  {
+      "title": "成功",
+      "value": 419,
+      "status": "success"
+  },
+  {
+      "title": "失败",
+      "value": 11,
+      "status": "error"
+  },
+  {
+      "title": "执行中",
+      "value": 63,
+      "status": "info"
+  }
+]

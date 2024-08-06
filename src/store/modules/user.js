@@ -1,4 +1,4 @@
-import { login, logout, getInfo } from '@/api/login'
+import { login, getInfo } from '@/api/login'
 import { getToken, setToken, removeToken } from '@/utils/auth'
 import { listAllUser } from '@/api/system/user'
 
@@ -79,17 +79,10 @@ const user = {
 
     // 退出系统
     LogOut({ commit, state }) {
-      return new Promise((resolve, reject) => {
-        logout(state.token).then(() => {
-          commit('SET_TOKEN', '')
-          commit('SET_ROLES', [])
-          commit('SET_PERMISSIONS', [])
-          removeToken()
-          resolve()
-        }).catch(error => {
-          reject(error)
-        })
-      })
+      commit('SET_TOKEN', '')
+      commit('SET_ROLES', [])
+      commit('SET_PERMISSIONS', [])
+      removeToken()
     },
     GetListAllUser({ commit }) {
       listAllUser().then(res => {

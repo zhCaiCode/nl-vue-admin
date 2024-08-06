@@ -1,0 +1,52 @@
+{
+  "extra": [
+      {
+          "title": "今日新增",
+          "value": 0,
+          "key": "add",
+          "className":"green"
+      },
+      {
+          "title": "当前在线",
+          "value": 0,
+          "key": "online",
+          "className":"blue"
+      },
+      {
+          "title": "当前离线",
+          "value": 14,
+          "key": "offline",
+          "className":"default"
+      }
+  ],
+  "content": [
+      {
+          "title": "Total",
+          "value": 14
+      },
+      {
+        "title": "Total",
+        "value": 14
+    },
+    {
+      "title": "Total",
+      "value": 14
+  },
+    {
+        "title": "Total",
+        "value": 14
+    },
+    {
+      "title": "Total",
+      "value": 14
+  },
+  {
+    "title": "Total",
+    "value": 14
+},
+{
+  "title": "Total",
+  "value": 14
+}
+  ]
+}

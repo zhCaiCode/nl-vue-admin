@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon_hover信息推送</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0.171558277%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#CB8BF4" offset="0%"></stop>
+            <stop stop-color="#5D4DE4" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="52" height="52" rx="12"></rect>
+        <filter x="-4.8%" y="-4.8%" width="113.5%" height="113.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296601836 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M38.2770137,13 C40.3149408,13 42.1209617,13.9760995 43.2377063,15.4786713 C43.3818309,15.5793329 43.5075737,15.705016 43.6063488,15.8526277 C43.7274999,16.0336784 43.7952461,16.2285371 43.813771,16.4233815 C44.1999625,17.213572 44.4166667,18.0997646 44.4166667,19.0357143 L42.3701157,32.9642857 C42.3701157,36.2977187 39.6212994,39 36.2304627,39 L27.7393333,39 L27.6489515,39.0047906 L12.696539,39.0047906 C11.9129824,39.0047906 11.269542,38.4048812 11.200467,37.6393114 L11.194328,37.5025796 L11.194328,37.2570017 C11.194328,36.473445 11.7942374,35.8300046 12.5598072,35.7609297 L12.696539,35.7547906 L25.1383333,35.754 L25.1383371,35.749 L35.4442093,35.75 C37.1396277,35.75 39,34.4272049 39,32.7954545 L41.1666667,19.2045455 C41.1666667,19.0301412 41.1440422,18.8592663 41.1015594,18.6931587 L29.3220937,24.7443384 C29.2285902,24.7909006 29.1317254,24.8279856 29.0329669,24.8559416 C28.6844773,24.974575 28.2877762,24.9717405 27.9263127,24.8276002 L27.7738004,24.7571166 L16.1305736,18.7723772 L16.0383333,18.718 L15.4714211,18.4423078 C15.0126491,18.2195259 14.547066,17.9942436 14.0755396,17.7666667 C13.7020685,17.586415 13.3595434,17.3939269 13.0479642,17.1892023 C13.8415049,14.7588234 16.1592363,13 18.8948371,13 L38.2770137,13 Z M25.7291667,30.3333333 C26.4770523,30.3333333 27.0833333,30.9396144 27.0833333,31.6875 C27.0833333,32.3913923 26.5462816,32.9698495 25.859582,33.0354677 L25.7291667,33.0416667 L11.1041667,33.0416667 C10.3562811,33.0416667 9.75,32.4353856 9.75,31.6875 C9.75,30.9836077 10.2870517,30.4051505 10.9737514,30.3395323 L11.1041667,30.3333333 L25.7291667,30.3333333 Z M8.9375,24.9166667 L20.3125,24.9166667 C21.0603856,24.9166667 21.6666667,25.5229477 21.6666667,26.2708333 C21.6666667,26.9747257 21.1296149,27.5531828 20.4429153,27.618801 L20.3125,27.625 L8.9375,27.625 C8.1896144,27.625 7.58333333,27.0187189 7.58333333,26.2708333 C7.58333333,25.566941 8.12038508,24.9884838 8.80708471,24.9228657 L8.9375,24.9166667 L20.3125,24.9166667 Z M15.9791667,19.5 C16.7270523,19.5 17.3333333,20.1062811 17.3333333,20.8541667 C17.3333333,21.6020523 16.7270523,22.2083333 15.9791667,22.2083333 L15.9791667,22.2083333 L12.1875,22.2083333 C11.4396144,22.2083333 10.8333333,21.6020523 10.8333333,20.8541667 C10.8333333,20.1062811 11.4396144,19.5 12.1875,19.5 L12.1875,19.5 Z M37.4907603,16.25 L19.1919171,16.25 C18.6926925,16.25 18.2213008,16.3646913 17.8046356,16.5681903 L28.4525415,22.0414573 L39.060782,16.5918725 C38.5539477,16.3736113 38.0090346,16.25 37.4907603,16.25 Z" id="path-4"></path>
+        <filter x="-10.9%" y="-7.7%" width="121.7%" height="130.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_hover信息推送" transform="translate(1.000000, 1.000000)">
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <rect stroke="#FFFFFF" stroke-width="2" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd" x="1" y="1" width="50" height="50" rx="12"></rect>
+            </g>
+            <g id="形状结合">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>

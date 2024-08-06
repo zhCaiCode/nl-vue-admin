@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>fasong</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#35A3F7" offset="0%"></stop>
+            <stop stop-color="#356CF7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fasong">
+            <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="30" height="30" rx="12"></rect>
+            <g transform="translate(7.500000, 6.500000)" fill="#FFFFFF" fill-rule="nonzero" id="路径">
+                <path d="M0.444124698,14.9587346 L1.60299097,9.6324069 C1.70008953,9.18612695 2.08721646,8.86234166 2.54363301,8.84567253 L11.543,8.517 L11.543,8.517 L2.53896602,8.14117945 C2.08474206,8.12222054 1.70046731,7.79925873 1.60362206,7.35507427 L0.44526248,2.04221349 C0.327612091,1.50260546 0.669676348,0.96979223 1.20928438,0.852141841 C1.43234263,0.803508596 1.66532653,0.832663263 1.86952285,0.934761426 L15.2111456,7.60557281 C15.7051241,7.85256206 15.9053485,8.4532351 15.6583592,8.9472136 C15.5615955,9.140741 15.404673,9.29766349 15.2111456,9.39442719 L1.86847774,16.0657611 C1.37449925,16.3127504 0.773826206,16.112526 0.526836957,15.6185475 C0.424805612,15.4144848 0.395620358,15.181668 0.444124698,14.9587346 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

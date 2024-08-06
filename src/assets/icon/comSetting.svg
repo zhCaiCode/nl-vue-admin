@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon_normal综合设置</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.05078125%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0CBCFF" offset="0%"></stop>
+            <stop stop-color="#6C1EC9" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="48" height="48" rx="10"></rect>
+        <filter x="-5.2%" y="-5.2%" width="114.6%" height="114.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296601836 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M31.7777778,25.5555556 C35.2142162,25.5555556 38,28.3413393 38,31.7777778 C38,35.2142162 35.2142162,38 31.7777778,38 L16.2222222,38 C12.7857838,38 10,35.2142162 10,31.7777778 C10,28.3413393 12.7857838,25.5555556 16.2222222,25.5555556 L31.7777778,25.5555556 Z M31.3333333,28.6666667 L16.6666667,28.6666667 C14.6416226,28.6666667 13,30.0595586 13,31.7777778 C13,33.4272682 14.5129194,34.776937 16.4255823,34.8822713 L16.6666667,34.8888889 L31.3333333,34.8888889 C33.3583774,34.8888889 35,33.495997 35,31.7777778 C35,30.1282873 33.4870806,28.7786185 31.5744177,28.6732842 L31.3333333,28.6666667 Z M23.8648649,10 C24.4917827,10 25,10.8985894 25,11.5555556 C25,12.1577745 24.5729563,13.0323437 24.018896,13.1111111 L16.4324324,13.1111111 C14.1337337,13.1111111 13,14.3318648 13,16.7407407 C13,19.0603991 13.9982556,20.2330545 16.1788851,20.3703704 L23.8648649,20.3703704 C24.4917827,20.3703704 25,21.2689598 25,21.9259259 C25,22.5281449 24.5729563,23.3918549 24.018896,23.4706224 L23.8648649,23.4814815 L16.4324324,23.4814815 C12.8798981,23.4814815 10,20.4635491 10,16.7407407 C10,13.1274268 12.7129836,10.1781352 16.1207753,10.0077732 L16.4324324,10 L23.8648649,10 Z M31.5,10 C35.0898509,10 38,13.0179324 38,16.7407407 C38,20.4635491 35.0898509,23.4814815 31.5,23.4814815 C27.9101491,23.4814815 25,20.4635491 25,16.7407407 C25,13.0179324 27.9101491,10 31.5,10 Z M31.5,13.1111111 C29.5670034,13.1111111 28,14.7361516 28,16.7407407 C28,18.7453298 29.5670034,20.3703704 31.5,20.3703704 C33.4329966,20.3703704 35,18.7453298 35,16.7407407 C35,14.7361516 33.4329966,13.1111111 31.5,13.1111111 Z" id="path-4"></path>
+        <filter x="-14.3%" y="-7.1%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_normal综合设置" transform="translate(1.000000, 1.000000)">
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="形状结合" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FFFFFF" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>

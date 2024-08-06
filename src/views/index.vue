@@ -2,7 +2,7 @@
   <div class="app-container home">
     <el-row :gutter="20">
       <el-col :sm="24" :lg="12" style="padding-left: 20px">
-        <h2>后台管理系统框架</h2>
+        <h2>B/S架构SaaS类软件产品前端设计框架及组件库</h2>
         <p>
           基于ruoyi-vue-admin深度定制的前端开发框架
         </p>

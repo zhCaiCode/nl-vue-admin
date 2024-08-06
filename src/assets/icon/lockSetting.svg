@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.21" height="30.688" viewBox="0 0 24.21 30.688">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1067.88" y="828.312" width="24.21" height="30.688" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#737373"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="锁屏设置" class="cls-1" d="M1088.65,841.19h-1.52v-5.756a7.145,7.145,0,0,0-14.29,0v5.756h-1.52a3.435,3.435,0,0,0-3.43,3.425v10.96a3.435,3.435,0,0,0,3.43,3.425h17.33a3.435,3.435,0,0,0,3.43-3.425v-10.96A3.435,3.435,0,0,0,1088.65,841.19Zm-13.34-5.754a4.675,4.675,0,0,1,9.35,0v5.754h-9.35v-5.754Zm14.3,19.386a1.719,1.719,0,0,1-1.72,1.712h-15.81a1.719,1.719,0,0,1-1.72-1.712v-9.453a1.719,1.719,0,0,1,1.72-1.713h15.81a1.719,1.719,0,0,1,1.72,1.713v9.453Zm-13.06-7.467a1.235,1.235,0,0,0-1.24,1.233V851.6a1.235,1.235,0,0,0,2.47,0v-3.014A1.233,1.233,0,0,0,1076.55,847.355Zm6.87,0a1.248,1.248,0,0,0-1.24,1.233V851.6a1.24,1.24,0,0,0,2.48,0v-3.014A1.242,1.242,0,0,0,1083.42,847.355Z" transform="translate(-1067.88 -828.312)"/>
+</svg>

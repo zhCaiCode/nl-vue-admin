@@ -3,7 +3,8 @@
     <div class="language"></div>
     <div class="login">
       <el-form ref="loginForm" :model="loginForm" :rules="loginRules" class="login-form" label-width="0px">
-        <h3 class="title">后台管理系统</h3>
+        <p class="title">B/S架构SaaS类软件产品</p>
+        <p class="title title--desc">前端设计框架示例</p>
         <div class="form-item-wrapper">
           <h3 class="txt-login">登录</h3>
           <el-form-item prop="username">
@@ -195,14 +196,22 @@
 
 
     .title {
-      height: 120px;
-      margin: 0px auto 30px auto;
+      height: 80px;
+      margin: 0px auto 15px auto;
       text-align: center;
       color: #000;
       font-family: Poppins-SemiBold;
-      font-size: 48px;
+      font-size: 32px;
       font-weight: 700;
       line-height: 120px;
+    }
+    .title--desc{
+      color:#494949;
+      text-align: center;
+      margin-top: 0px;
+      height: 30px;
+      line-height: 30px;
+      font-size: 18px;
     }
 
     .login-form {
@@ -272,4 +281,5 @@
     }
   }
 
-</style>
+</style>import C from 'highlight.js/lib/languages/1c'
+

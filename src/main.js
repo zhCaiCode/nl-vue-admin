@@ -11,7 +11,6 @@ import '@/assets/styles/ruoyi.scss' // ruoyi css
 import App from './App'
 import store from './store'
 import router from './router'
-import EleComponents from '@/utils/EleComponents'
 import directive from './directive' // directive
 import plugins from './plugins' // plugins
 import { download } from '@/utils/request'
@@ -21,6 +20,8 @@ import './permission' // permission control
 import { getDicts } from '@/api/system/dict/data'
 import { getConfigKey } from '@/api/system/config'
 import { parseTime, resetForm, addDateRange, selectDictLabel, selectDictLabels, handleTree } from '@/utils/ruoyi'
+import Library from '@xiula/custom-vue-components'
+import '@xiula/custom-vue-components/dist/style.css'
 // 分页组件
 import Pagination from '@/components/Pagination'
 // 自定义表格工具组件
@@ -63,7 +64,7 @@ Vue.use(Element, {
 Vue.use(directive)
 Vue.use(plugins)
 Vue.use(VueMeta)
-Vue.use(EleComponents)
+Vue.use(Library)
 DictData.install()
 getfontszie()
 /**

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon_normal重新连接</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#28BCF5" offset="0%"></stop>
+            <stop stop-color="#4435D6" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="48" height="48" rx="10"></rect>
+        <filter x="-5.2%" y="-5.2%" width="114.6%" height="114.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296601836 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-33.3%" y="-33.3%" width="166.7%" height="166.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="2023年2月15日" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_normal重新连接" transform="translate(1.000000, 1.000000)">
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="icon-duankailianjie" filter="url(#filter-4)" transform="translate(24.000000, 24.000000) rotate(-45.000000) translate(-24.000000, -24.000000) translate(12.000000, 12.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M13.853943,17.8260437 C14.2460127,17.433974 14.8174667,17.2808533 15.3530439,17.4243608 C15.8886211,17.5678683 16.3069545,17.9862017 16.450462,18.5217789 C16.5939694,19.0573561 16.4408488,19.6288101 16.048779,20.0208798 L14.9509731,21.1179099 C11.6187635,24.4508954 6.21507548,24.4508954 2.88209006,21.1179099 C-0.450895381,17.7849245 -0.450895381,12.3820123 2.88209006,9.04902692 L3.97912019,7.95122095 C4.37118989,7.55915124 4.94264394,7.40603058 5.47822113,7.54953805 C6.01379831,7.69304553 6.43213171,8.11137893 6.57563917,8.64695611 C6.71914664,9.1825333 6.56602598,9.75398735 6.17395626,10.146057 L5.07615032,11.2430871 C2.95516631,13.3640712 2.95516631,16.8028657 5.07615032,18.9238497 C7.19713432,21.0448337 10.6359288,21.0448337 12.7569129,18.9238497 L13.853943,17.8260437 Z M18.9238497,12.7569129 C21.0448337,10.6359288 21.0448337,7.19713432 18.9238497,5.07615032 C16.8028657,2.95516631 13.3640712,2.95516631 11.2430871,5.07615032 L9.49334309,6.82667021 C9.1012734,7.21873993 8.52981935,7.37186059 7.99424216,7.22835313 C7.45866498,7.08484566 7.04033157,6.66651226 6.8968241,6.13093508 C6.75331663,5.5953579 6.90643729,5.02390385 7.298507,4.63183414 L9.04902692,2.88209006 C12.3812365,-0.450895381 17.7849245,-0.450895381 21.1179099,2.88209006 C24.4508954,6.21507551 24.4508954,11.6179877 21.1179099,14.9509731 L19.3681659,16.701493 C18.9760962,17.0935627 18.4046421,17.2466834 17.8690649,17.1031759 C17.3334877,16.9596684 16.9151543,16.541335 16.7716469,16.0057578 C16.6281394,15.4701807 16.7812601,14.8987266 17.1733298,14.5066569 L18.9238497,12.7569129 Z M8.33972007,15.6601497 C8.04858969,15.3691372 7.88502442,14.9743688 7.88502442,14.5627316 C7.88502442,14.1510945 8.04858969,13.7563261 8.33972007,13.4653136 L13.4654439,8.33958981 C14.0715311,7.73350261 15.0541927,7.73350263 15.6602799,8.33958985 C16.2663671,8.94567708 16.2663671,9.92833863 15.6602799,10.5344259 L10.5345561,15.6601497 C10.2435437,15.95128 9.84877528,16.1148453 9.43713811,16.1148453 C9.02550094,16.1148453 8.63073255,15.95128 8.33972007,15.6601497 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

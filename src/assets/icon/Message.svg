@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon_normal信息推送</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0.171558277%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#BB4FFF" offset="0%"></stop>
+            <stop stop-color="#3F2ED6" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="48" height="48" rx="10"></rect>
+        <filter x="-5.2%" y="-5.2%" width="114.6%" height="114.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296601836 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M35.332628,12 C37.2127848,12 38.8791033,12.9000508 39.9100733,14.285778 C40.0436791,14.3798364 40.1604102,14.4962997 40.2520143,14.6331948 C40.3635084,14.7998139 40.4260029,14.9791019 40.4433248,15.1584152 C40.7996421,15.8881296 41,16.7067772 41,17.5714286 L39.110876,30.4285714 C39.110876,33.5055865 36.5735071,36 33.443504,36 L25.491,36 L25.4087654,36.0044221 L11.8332258,36.0044221 C11.0047987,36.0044221 10.3332258,35.3328492 10.3332258,34.5044221 C10.3332258,33.724726 10.9281139,33.0839734 11.6887658,33.0112887 L11.8332258,33.0044221 L23.203,33.004 L23.2036189,32.999 L32.7177317,33 C34.2827333,33 36,31.7789584 36,30.2727273 L38,17.7272727 C38,17.5662379 37.9791038,17.4084628 37.9398671,17.2550912 L27.066548,22.8409277 C26.9767373,22.885651 26.8835671,22.9209023 26.7885638,22.9470437 C26.4695002,23.0534723 26.1071572,23.0493711 25.7767719,22.9172402 L25.6373542,22.852723 L14.8897602,17.3283482 L14.81,17.281 L14.2812253,17.0235094 C13.857706,16.8179639 13.4279981,16.6100408 12.9928058,16.4 C12.6482008,16.2336802 12.3321385,16.0560743 12.0446189,15.8671821 C12.7768731,13.6234539 14.9162768,12 17.4413881,12 L35.332628,12 Z M23.75,28 C24.4403559,28 25,28.5596441 25,29.25 C25,29.8972087 24.5081253,30.4295339 23.8778052,30.4935464 L23.75,30.5 L10.25,30.5 C9.55964406,30.5 9,29.9403559 9,29.25 C9,28.6027913 9.49187466,28.0704661 10.1221948,28.0064536 L10.25,28 L23.75,28 Z M8.25,23 L18.75,23 C19.4403559,23 20,23.5596441 20,24.25 C20,24.8972087 19.5081253,25.4295339 18.8778052,25.4935464 L18.75,25.5 L8.25,25.5 C7.55964406,25.5 7,24.9403559 7,24.25 C7,23.6027913 7.49187466,23.0704661 8.12219476,23.0064536 L8.25,23 L18.75,23 Z M14.75,18 C15.4403559,18 16,18.5596441 16,19.25 C16,19.9403559 15.4403559,20.5 14.75,20.5 L14.75,20.5 L11.25,20.5 C10.5596441,20.5 10,19.9403559 10,19.25 C10,18.5596441 10.5596441,18 11.25,18 L11.25,18 Z M34.6068557,15 L17.7156157,15 C17.2553251,15 16.8206669,15.1056247 16.4363803,15.2930639 L26.2639614,20.3464221 L36.0548217,15.3150216 C35.5873386,15.1138939 35.0848248,15 34.6068557,15 Z" id="path-4"></path>
+        <filter x="-11.8%" y="-8.3%" width="123.5%" height="133.3%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_normal信息推送" transform="translate(1.000000, 1.000000)">
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="形状结合">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>

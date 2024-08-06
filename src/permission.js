@@ -16,7 +16,7 @@ router.beforeEach((to, from, next) => {
     to.meta.title && store.dispatch('settings/setTitle', to.meta.title)
     /* has token*/
     if (to.path === '/login') {
-      next({ path: '/' })
+      next({ path: '/weblib' })
       NProgress.done()
     } else if (whiteList.indexOf(to.path) !== -1) {
       next()
@@ -34,12 +34,12 @@ router.beforeEach((to, from, next) => {
         }).catch(err => {
           store.dispatch('LogOut').then(() => {
             Message.error(err)
-            next({ path: '/' })
+            next({ path: '/weblib' })
           })
         })
       } else {
         if(store.getters.sidebar.hide && to.path.startsWith('/index')){
-          next({path:'/'})
+          next({path:'/weblib'})
         }
         next()
       }

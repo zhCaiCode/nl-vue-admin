@@ -1,0 +1,22 @@
+{
+  "data":[
+    {
+      "title":"组件",
+      "children":[
+        {
+          "title":"basic",
+          "children":[
+            {
+              "title":"数据卡片展示",
+              "path":"/libs/components/dataCard"
+            },
+            {
+              "title":"弹窗",
+              "path":"libs/components/popver"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

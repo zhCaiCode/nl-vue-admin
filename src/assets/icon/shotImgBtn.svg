@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon_normal截图</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0.811170434%" x2="50%" y2="99.1493622%" id="linearGradient-1">
+            <stop stop-color="#C68EFD" offset="0%"></stop>
+            <stop stop-color="#4D3AE0" offset="99.9736064%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="48" height="48" rx="10"></rect>
+        <filter x="-5.2%" y="-5.2%" width="114.6%" height="114.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296601836 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M13.6855984,9.5 C14.5593958,9.5 15.2677485,10.2083527 15.2677485,11.0821501 L15.2677485,11.0821501 L15.2677485,29.3466387 C15.2677485,31.0034929 16.6108942,32.3466387 18.2677485,32.3466387 L18.2677485,32.3466387 L31.758,32.346 L31.7586207,32.2857143 L34.862069,32.2857143 L34.862,32.346 L37.4768908,32.3466387 C38.271348,32.3466387 38.9237396,32.9548938 38.9937756,33.7311139 L39,33.8697479 C39,34.7109379 38.3180808,35.3928571 37.4768908,35.3928571 L37.4768908,35.3928571 L34.862,35.392 L34.862069,37 C34.862069,37.8284271 34.1904961,38.5 33.362069,38.5 L33.2586207,38.5 C32.4301936,38.5 31.7586207,37.8284271 31.7586207,37 L31.758,35.392 L17.1034483,35.3928571 C14.4146936,35.3928571 12.2216302,33.2705504 12.1080678,30.6097468 L12.1034483,30.3928571 L12.103,16.749 L10.5,16.75 C9.67157288,16.75 9,16.0784271 9,15.25 L9,15.1428571 C9,14.31443 9.67157288,13.6428571 10.5,13.6428571 L12.103,13.642 L12.1034483,11.0821501 C12.1034483,10.256897 12.7352814,9.57921649 13.5415905,9.50646573 Z M29.862069,13.6428571 C32.6234927,13.6428571 34.862069,15.8814334 34.862069,18.6428571 L34.862069,18.6428571 L34.862069,30.2142857 L31.6977688,30.2142857 L31.6977688,19.6890756 C31.6977688,18.0322214 30.354623,16.6890756 28.6977688,16.6890756 L28.6977688,16.6890756 L17.2758621,16.6890756 L17.2758621,13.6428571 Z" id="path-4"></path>
+        <filter x="-13.3%" y="-6.9%" width="126.7%" height="127.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="2023年2月15日" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_normal截图" transform="translate(1.000000, 1.000000)">
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="形状结合" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FFFFFF" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>

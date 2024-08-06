@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.44" height="31.219" viewBox="0 0 27.44 31.219">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #8c8c8c;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1450.78" y="827.5" width="27.44" height="31.219" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#737373"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-1450.78 -827.5)" style="fill: ; filter: url(#filter)">
+    <path id="主动报警" class="cls-1" d="M1464.5,834.333a0.919,0.919,0,0,0,.92-0.92v-4.494a0.92,0.92,0,0,0-1.84,0v4.494A0.919,0.919,0,0,0,1464.5,834.333Zm4.4,1.177a0.926,0.926,0,0,0,1.26-.336l2.25-3.892a0.923,0.923,0,0,0-1.6-.919h0l-2.25,3.891A0.924,0.924,0,0,0,1468.9,835.51Zm8.71,0.055a0.925,0.925,0,0,0-1.26-.337l-3.89,2.247a0.92,0.92,0,1,0,.92,1.593l3.89-2.247a0.924,0.924,0,0,0,.34-1.256h0Zm-18.77-.391a0.923,0.923,0,0,0,1.6-.92l-2.25-3.891a0.923,0.923,0,0,0-1.6.919Zm-3.22,3.893a0.92,0.92,0,1,0,.92-1.593l-3.89-2.247a0.92,0.92,0,1,0-.92,1.593h0Zm18.37,12.274h-1.55v-6.782a7.94,7.94,0,0,0-15.88,0v6.782H1455a3.439,3.439,0,0,0,0,6.878h18.99A3.439,3.439,0,1,0,1473.99,851.341Zm-15.59-6.782a6.1,6.1,0,0,1,12.2,0v6.782h-12.2v-6.782Zm15.59,11.821H1455a1.6,1.6,0,0,1,0-3.2h18.99A1.6,1.6,0,1,1,1473.99,856.38Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-1450.78 -827.5)" xlink:href="#主动报警" style="stroke: #8c8c8c; filter: none; fill: none"/>
+</svg>

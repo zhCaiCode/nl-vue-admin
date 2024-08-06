@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.19" height="29.188" viewBox="0 0 29.19 29.188">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #8c8c8c;
+        stroke-width: 0.5px;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1306.5" y="828.75" width="29.19" height="29.188" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#737373"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-1306.5 -828.75)" style="fill: ; filter: url(#filter)">
+    <path id="轨迹回放" class="cls-1" d="M1320.2,834.377a0.9,0.9,0,0,0-.9.9v8.966a0.9,0.9,0,0,0,.9.9h7.17a0.9,0.9,0,1,0,0-1.793h-6.27v-8.07A0.9,0.9,0,0,0,1320.2,834.377Zm14.11,3.382a14.362,14.362,0,0,0-24.49-3.292,14.959,14.959,0,0,0-1.28,1.925v-2.914a0.9,0.9,0,1,0-1.79,0v5.38a0.9,0.9,0,0,0,.9.9h4.48a0.9,0.9,0,1,0,0-1.793h-2.38a12.563,12.563,0,1,1-1.1,6.994,0.9,0.9,0,0,0-1.01-.776,0.9,0.9,0,0,0-.77,1A14.344,14.344,0,1,0,1334.31,837.759Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-1306.5 -828.75)" xlink:href="#轨迹回放" style="stroke: #8c8c8c; filter: none; fill: none"/>
+</svg>

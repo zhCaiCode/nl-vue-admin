@@ -94,7 +94,7 @@
           type: 'warning'
         }).then(() => {
           this.$store.dispatch('LogOut').then(() => {
-            location.href = '/'
+            location.href = '/weblib'
           })
         }).catch(() => {
         })

@@ -10,7 +10,8 @@
     "build:stage": "vue-cli-service build --mode staging",
     "preview": "node build/index.js --preview",
     "lint": "eslint --ext .js,.vue src",
-    "serve":"serve -s dist -p 9527"
+    "serve": "serve -s dist -p 9527",
+    "az":"npm install --no-optional"
   },
   "husky": {
     "hooks": {
@@ -67,6 +68,7 @@
     "@vue/cli-plugin-babel": "4.4.6",
     "@vue/cli-plugin-eslint": "4.4.6",
     "@vue/cli-service": "4.4.6",
+    "@xiula/custom-vue-components": "^1.0.20-beta.3",
     "babel-eslint": "10.1.0",
     "babel-plugin-dynamic-import-node": "2.3.3",
     "chalk": "4.1.0",

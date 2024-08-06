@@ -1,13 +1,13 @@
 <template>
   <el-header class="app-header" style="height: 7.5rem">
     <el-row style="height: 100%">
-      <el-col :span="8">
+      <el-col :span="16">
         <div class="sys-name" @click="goToHome">
           <img :class="logoClassName" src="../../assets/images/logo.png" alt="">
-          <span :class="sysNameText">后台管理系统</span>
+          <span :class="sysNameText">B/S架构SaaS类软件产品前端设计框架及组件库</span>
         </div>
       </el-col>
-      <el-col :span="8" />
+
       <el-col :span="8">
         <Navbar />
       </el-col>
